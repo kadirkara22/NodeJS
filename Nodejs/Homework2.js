@@ -1,3 +1,7 @@
+`Post Sıralama ve Post Ekleme
+Blog oluşturmaya hazır mısınız? Konsol ekranında postlarımızı sıralayalım,
+sonrasında yeni bir post oluşturalım ve yeni post ile birlikte postlarımızı tekrar sıralayalım.`
+
 const posts = [
     { title: "Post Title 1", content: "Post Content 1", author: "Ahmet" },
     { title: "Post Title 2", content: "Post Content 2", author: "Sezer" },
